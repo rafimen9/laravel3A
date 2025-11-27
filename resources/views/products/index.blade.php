@@ -6,7 +6,7 @@
     <title>Daftar Produk</title>
 </head>
 <body>
-    <h2>Daftar Produk</h2>
+    <h2>Daftar barang</h2>
 
     @if (session('success'))
         <p style="color:green;">{{ session('success') }}</p>
